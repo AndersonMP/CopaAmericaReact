@@ -1,0 +1,11 @@
+com\krakedev\copa\resources\JakartaEE11Resource.class
+com\krakedev\copa\excepciones\KrakedevExceptions.class
+com\krakedev\copa\entidades\Country.class
+com\krakedev\copa\bdd\CountryBDD.class
+com\krakedev\copa\utils\ConexionBDD.class
+com\krakedev\copa\bdd\ForecastBDD.class
+com\krakedev\copa\entidades\Forecast.class
+com\krakedev\copa\entidades\FootballMatch.class
+com\krakedev\copa\entidades\User.class
+com\krakedev\copa\resources\ForecastResource.class
+com\krakedev\copa\resources\CountryResource.class

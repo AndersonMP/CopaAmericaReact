@@ -1,0 +1,16 @@
+Comando React
+npm uninstall -g create-react-app
+npm install -g create-react-app
+npx create-react-app my-app
+npm install web-vitals
+npm start
+
+
+
+Comando React Native
+npx @react-native-community/cli init MyFirstApp --version 0.76.5
+
+
+
+Cerrar un puerto
+taskkill /F /PID 3000 --Ejemplo
